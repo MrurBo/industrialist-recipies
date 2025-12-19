@@ -105,3 +105,5 @@ Sample snippet of data currently:
     }
 },
 ```
+## Licence
+All code licenced under the GPLv3 licence.
